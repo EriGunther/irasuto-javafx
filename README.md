@@ -2,8 +2,6 @@
 
 **Keywords:** DHBW, SoftwareEngineering, Irasuto, Puzzle, Irasuto Solver, Backtracking
 
-JavaFX Implementierung eines Solvers für das Rätsel Irasuto
-
 ## Technische Sachen
 + Java 11
 + JavaFX Dependencies
